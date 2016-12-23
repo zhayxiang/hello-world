@@ -1,2 +1,5 @@
 # hello-world
-First Day, Just for test GitHub
+
+Hi, Git!
+
+This is the first day to see you.
